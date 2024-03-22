@@ -5,9 +5,9 @@ Sets up a TCP server using the TcpListener module, binding it to the localhost a
 ## Commit 2 Reflection notes
 ![Commit 2 screen capture](/assets/images/commit2.png)
 
-## Commit 2 Reflection notes
+## Commit 3 Reflection notes
 The refactor that I add is to use If else to load the page by the status response
 ![Commit 3 screen capture](/assets/images/commit3.png)
 
-## Commit 2 Reflection notes
+## Commit 4 Reflection notes
 The `/sleep` is slower because the thread we set to sleep for 10 second using this code: `thread::sleep(Duration::from_secs(10));`
